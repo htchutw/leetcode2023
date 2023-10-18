@@ -10,7 +10,6 @@
 | **Total** | 1 | 0 | 0 | 2202 |
 | **Coverage** | 0.2 % | 0 % | 0% | 0 % |
 
-| Number | Acceptance | Title | Difficulty | Favorite |
+| Number | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
-|[0001](https://leetcode.com/problems/two-sum/)| 1. Two Sum
-|76.53%|easy||
+|[0001](https://leetcode.com/problems/two-sum/)| 1. Two Sum |76.53%|easy||
