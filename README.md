@@ -11,5 +11,5 @@
 | **Coverage** | 0.2 % | 0 % | 0% | 0 % |
 
 | Number | Title | Difficulty | Favorite |
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 |[0001](https://leetcode.com/problems/two-sum/)| 1. Two Sum |76.53%|easy||
